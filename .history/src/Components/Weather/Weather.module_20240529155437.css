@@ -1,0 +1,9 @@
+.divhead{   
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    /* padding: 273px; */
+    flex-direction: column;
+    height: 591px;
+    width: 500px;
+}

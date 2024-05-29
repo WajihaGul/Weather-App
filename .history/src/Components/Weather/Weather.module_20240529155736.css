@@ -1,0 +1,13 @@
+.divhead{   
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 591px;
+    width: 500px;
+    background-color: yellow;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-bottom: 150px;
+    margin-top: 150px;
+}
